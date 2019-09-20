@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="824546cc-4916-47b5-8541-8fe5aac9b79f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/ClientSideApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/controllers/DefaultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/dto/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/dto/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/utils/CryptoUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/pages/birthplace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/pages/education.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/pages/hobby.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/scripts/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/fonts/Ballada.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/1-sc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/10-run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/2-sc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/3-mil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/4-univer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/5-read.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/6-travel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/7-hardtasks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/8-puzzles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/9-listen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/chashniki1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/chashniki2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/chashniki3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/contacts_social3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/geometry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/photo03_medium.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/stardust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/timetable/TimetableApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/timetable/controllers/DefaultController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/timetable/dto/CustomObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/minsk/timetable/TimetableApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/minsk/kbrs/clientside/ClientSideApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R4cydvMYnidFLwIdfG3nnkpGSA" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/minsk/timetable/dto" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.webservices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.minsk.timetable.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\University\FAMCS\КБРС\Lab2\client-side\src\main\java\com\minsk\timetable\dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="client-side" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="client-side" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minsk.kbrs.clientside.ClientSideApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:8070/start?filename=&quot;first&quot;" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="824546cc-4916-47b5-8541-8fe5aac9b79f" name="Default Changelist" comment="" />
+      <created>1568930065086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568930065086</updated>
+      <workItem from="1568930068758" duration="196000" />
+      <workItem from="1568935367457" duration="5403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
