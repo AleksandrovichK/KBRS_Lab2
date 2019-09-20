@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author KotsyubaT
+ * @author AleksandrovichK
  */
 @RestController
 public class DefaultController {
