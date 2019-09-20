@@ -14,6 +14,13 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class DefaultController {
+    private static final String ANSI_RESET = "\u001B[0m";
+    private static final String ANSI_RED = "\u001B[31m";
+    private static final String ANSI_GREEN = "\u001B[32m";
+    private static final String ANSI_PURPLE = "\u001B[35m";
+    private static final String ANSI_CYAN = "\u001B[36m";
+    private static final String ANSI_BLUE = "\u001B[34m";
+
     /**
      * algorithm:
      * - server -
@@ -31,12 +38,16 @@ public class DefaultController {
         String encryptedData = CryptoUtils.encryptAES(data, temporaryKey);
         String encryptedTemporaryKey = CryptoUtils.encryptRSA(temporaryKey, publicKeyRSA);
 
-        System.out.println("\n\nRequest is accepted.");
-        System.out.println("Generated temporary key before encryption: " + temporaryKey);
-        System.out.println("Open text before encryption: " + data);
-        System.out.println("-------------------------------------------");
-        System.out.println("Generated temporary key after encryption: " + encryptedTemporaryKey);
-        System.out.println("Open text after encryption: " + encryptedData);
+        System.out.println(ANSI_RED + "\n\n\n Request is accepted." + ANSI_RESET);
+        System.out.print("\033[1m Generated temporary key before encryption: \033[0m");
+        System.out.print(ANSI_GREEN + temporaryKey + ANSI_RESET);
+        System.out.print("\n\033[1m Open text before encryption: \033[0m");
+        System.out.println(ANSI_GREEN + data + ANSI_RESET);
+        System.out.print(ANSI_BLUE + "-------------------------------------------" + ANSI_RESET);
+        System.out.print("\n\033[1m Generated temporary key after encryption: \033[0m");
+        System.out.print(ANSI_PURPLE + encryptedTemporaryKey + ANSI_RESET);
+        System.out.print("\n\033[1m Open text after encryption: \033[0m");
+        System.out.print(ANSI_CYAN + encryptedData + ANSI_RESET);
         return new Response(encryptedData, encryptedTemporaryKey);
     }
 }

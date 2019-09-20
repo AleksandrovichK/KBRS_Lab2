@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="824546cc-4916-47b5-8541-8fe5aac9b79f" name="Default Changelist" comment="Clean-up">
+    <list default="true" id="824546cc-4916-47b5-8541-8fe5aac9b79f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/controllers/DefaultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/controllers/DefaultController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-side/src/main/java/com/minsk/kbrs/serverside/controllers/DefaultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../server-side/src/main/java/com/minsk/kbrs/serverside/controllers/DefaultController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-side/src/main/resources/secret-files/second" beforeDir="false" afterPath="$PROJECT_DIR$/../server-side/src/main/resources/secret-files/second" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +84,8 @@
       <updated>1568930065086</updated>
       <workItem from="1568930068758" duration="196000" />
       <workItem from="1568935367457" duration="6222000" />
-      <workItem from="1568983053438" duration="804000" />
+      <workItem from="1568983053438" duration="3191000" />
+      <workItem from="1568989896903" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="Added printing out of results">
       <created>1568941318799</created>
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568941318799</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="COLORS AND BOLD">
+      <created>1568983871428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568983871428</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added printing out of results" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added printing out of results" />
+    <MESSAGE value="COLORS AND BOLD" />
+    <option name="LAST_COMMIT_MESSAGE" value="COLORS AND BOLD" />
   </component>
 </project>
