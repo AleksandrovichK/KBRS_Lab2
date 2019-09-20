@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824546cc-4916-47b5-8541-8fe5aac9b79f" name="Default Changelist" comment="Clean-up">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheme/scheme.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheme/scheme.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scheme/scheme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-side/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-side/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-side/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-side/scheme/scheme.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-side/scheme/scheme.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../server-side/scheme/scheme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/controllers/DefaultController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/controllers/DefaultController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +30,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server-side" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -95,6 +82,7 @@
       <updated>1568930065086</updated>
       <workItem from="1568930068758" duration="196000" />
       <workItem from="1568935367457" duration="6222000" />
+      <workItem from="1568983053438" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="Added printing out of results">
       <created>1568941318799</created>
