@@ -2,41 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824546cc-4916-47b5-8541-8fe5aac9b79f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/ClientSideApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/controllers/DefaultController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/dto/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/dto/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/minsk/kbrs/clientside/utils/CryptoUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/pages/birthplace.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/pages/education.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/pages/hobby.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/scripts/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/fonts/Ballada.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/1-sc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/10-run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/2-sc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/3-mil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/4-univer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/5-read.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/6-travel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/7-hardtasks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/8-puzzles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/9-listen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/chashniki1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/chashniki2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/chashniki3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/contacts_social3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/geometry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/photo03_medium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/images/stardust.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/angular/indexpage/styles/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/timetable/TimetableApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/timetable/controllers/DefaultController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/minsk/timetable/dto/CustomObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/minsk/timetable/TimetableApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/minsk/kbrs/clientside/ClientSideApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/minsk/kbrs/clientside/ClientSideApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/minsk/timetable/ClientSideApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/minsk/timetable/controllers/DefaultController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/minsk/timetable/dto/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/minsk/timetable/dto/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/minsk/timetable/utils/CryptoUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/minsk/timetable/ClientSideApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server-side/src/test/java/com/minsk/kbrs/serverside/ServerSideApplicationTests.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1R4cydvMYnidFLwIdfG3nnkpGSA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -97,7 +72,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:8070/start?filename=&quot;first&quot;" />
+        <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:8070/start?filename=first" />
       </method>
     </configuration>
   </component>
@@ -112,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568930065086</updated>
       <workItem from="1568930068758" duration="196000" />
-      <workItem from="1568935367457" duration="5403000" />
+      <workItem from="1568935367457" duration="5684000" />
     </task>
     <servers />
   </component>

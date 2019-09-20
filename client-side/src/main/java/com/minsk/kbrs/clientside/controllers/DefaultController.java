@@ -27,7 +27,7 @@ public class DefaultController {
      * - decrypts with private key temporary key and decrypts text file
      */
     @RequestMapping(method = RequestMethod.GET, value = "/start")
-    public Response proceed(@RequestParam String filename) {
+    public String proceed(@RequestParam String filename) {
         KeyPair keyPair = CryptoUtils.getKeyPair();
         String publicKey = Base64.encodeBase64String(keyPair.getPublic().getEncoded());
         PrivateKey privateKey = keyPair.getPrivate();
@@ -40,8 +40,7 @@ public class DefaultController {
         System.out.println("Response is accepted.");
         System.out.println("Decrypted temporary key: " + decryptedTemporaryKey);
         System.out.println("Open text: " + data);
-        return null;
-       // return new Response(encryptedData, encryptedTemporaryKey);
+        return "Open text: " + data + ",\nDecrypted temporary key: " + decryptedTemporaryKey;
     }
 }
 
